@@ -37,6 +37,9 @@ public class Main {
                 countRepeat = 0;
             }
         }
+        if (maxCountRepeat == 0) {
+            maxCountRepeat = countRepeat;
+        }
         return maxCountRepeat;
     }
 
@@ -166,6 +169,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        task4();
+        task2();
     }
 }
