@@ -1,0 +1,10 @@
+.git
+.gitignore
+.idea
+content.txt
+format.txt
+lesson1
+lesson2
+log.txt
+log.txt.lck
+out
